@@ -1,0 +1,121 @@
+h1{
+    color: aquamarine;
+    font-size: large;
+}
+h2{
+    color: rgb(148, 235, 61);
+    font-size: medium;
+}
+div{
+    text-align: left;
+    /* padding-top: 10px; */
+    /* background-color: white; */
+}
+.para{
+    color: rgba(243, 231, 231, 0.824);
+}
+
+.diva{
+    background-color: rgb(60, 163, 163);
+padding: 10px;
+   
+}
+.divana{
+    background-color: rgb(29, 189, 189);
+padding: 10px;
+}
+.diva4{
+    padding: 10px;
+    margin-left: 40%;
+    width: 21%;
+    background-color: rgb(200, 219, 213);
+}
+.div1{
+    padding: 10px;
+}
+.para2{
+    font-size: small;
+}
+.signup{
+    width: 90%;
+    height: 32px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    border-color: greenyellow;
+}
+.spann{
+    font-size: x-large;
+    color: white;
+}
+h3{
+    color: white;
+}
+.para3{
+    background-color: blueviolet;
+    display: inline;
+}
+.mother{
+    background-color: brown;
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.child{
+    width: 40%;
+
+}
+.child2{
+    background-color: aquamarine;
+    width: 40%;
+}
+
+.newdiv{
+    background-color: blueviolet;
+    color: red;
+    display: grid; grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+
+}
+.dv1{
+    background-color: blue;
+    width: 40px;
+}
+.dv2{
+    background-color: green;
+    width: 40px;
+}
+.dv3{
+    background-color: orange;
+    width: 40px;
+}
+.dv4{
+    background-color: burlywood;
+    width: 40px;
+}
+.dv5{
+    background-color: yellowgreen;
+    width: 40px;
+}
+.dv6{
+    background-color: mediumvioletred;
+    width: 40px;
+}
+.dv7{
+    background-color: olive;
+    width: 40px;
+}
+.dv8{
+    background-color: pink;
+    width: 40px;
+}
+.first{
+    border: 3px solid;
+    padding: 4px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.child3{
+    background-color: aquamarine;
+    border: 2px dashed;
+}
